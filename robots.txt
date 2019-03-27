@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeeneicahn.oggm.org/sitemap.xml
